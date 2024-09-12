@@ -1,3 +1,4 @@
-## 🤾🏻 YADESH HARIHAR SENTHILKUMAR
+## 🥷🏼 YADESH HARIHAR SENTHILKUMAR
 
-**'MERN Stack Shaman(Web Developer/ Photographer)'**
+** ' MERN Stack Shaman(Web Developer/ Photographer)'**
+
