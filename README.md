@@ -30,4 +30,10 @@
 
 🌱 Let's connect! I'm always open to collaboration, learning opportunities, and exciting projects. Feel free to explore my repositories or reach out to discuss how we can create something amazing together.
 
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yadeshharihar-s)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadeshharihar02@gmail.com)
+
+
 <img src="https://profile-counter.glitch.me/yadeshS/count.svg" alt="Profile views"/>
