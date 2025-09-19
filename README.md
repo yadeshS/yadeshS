@@ -6,7 +6,7 @@
 
 **Digital Craftsman | Web Developer | Photographer**
 
-🚀 I recently graduated with a Bachelor of Engineering in Computer Science and Engineering from R.M.K Engineering College in May 2024. My journey in tech began with a deep fascination for web and app development, which I honed during an internship in Java Web Development at DLK Career Development. Alongside this, I ventured into artificial intelligence through a virtual experience with Cognizant, which enhanced my versatility as a developer.
+🚀 I am currently pursuing my Master’s in Information Technology at Arizona State University, after graduating with a Bachelor of Engineering in Computer Science and Engineering from R.M.K Engineering College (May 2024). My journey in tech began with a strong interest in web development, which I explored during an internship in Java Web Development at DLK Career Development. I later expanded into artificial intelligence through a virtual experience with Cognizant, which strengthened my adaptability across domains. Now, I am focused on cloud technologies and infrastructure, working towards my goal of becoming a Cloud Engineer, where I can design and optimize scalable, secure, and reliable systems.
 
 
 ## 🔧 Technologies & Tools
