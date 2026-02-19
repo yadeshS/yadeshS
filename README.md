@@ -23,9 +23,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yadeshS&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yadeshS&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yadeshS&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yadeshS&layout=compact&theme=radical)
 
 🌟 What drives me? Creating seamless digital experiences is my passion. Whether it's crafting responsive websites, developing cross-platform apps, or experimenting with AI models, I'm driven by the challenge to innovate and improve. I am a lifelong learner, continuously expanding my skills to keep up with the evolving tech landscape.
 
