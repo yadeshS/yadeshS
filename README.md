@@ -84,11 +84,14 @@ My GitHub documents this journey through projects as I continue developing my en
 - 🎓 Graduate from Arizona State University in May 2027
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yadeshS&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yadeshS&show_icons=true&theme=radical&hide_border=true" alt="Yadesh's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadeshS&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
