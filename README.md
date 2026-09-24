@@ -1,113 +1,90 @@
+<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi%20There!%20I'm%20Yadesh&animation=fadeIn&type=waving&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=200&section=header&text=Yadesh%20Harihar%20Senthilkumar&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20%E2%80%A2%20Cloud%20%E2%80%A2%20DevOps&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 </p>
 
-# 🥷🏼 YADESH HARIHAR SENTHILKUMAR
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Engineer;Cloud+%26+DevOps+Enthusiast;MS+IT+%40+Arizona+State+University;Code+%E2%86%92+Container+%E2%86%92+CI%2FCD+%E2%86%92+Cloud+%E2%86%92+K8s" />
+</p>
 
-**Software Engineer | Cloud & DevOps Enthusiast | MS IT @ Arizona State University**
-
-🚀 I am currently pursuing my **Master of Science in Information Technology at Arizona State University**, with an expected graduation in **May 2027**. I earned my **Bachelor of Engineering in Computer Science and Engineering from R.M.K. Engineering College** in May 2024.
-
-💻 My interests include **Software Engineering, Cloud Computing, DevOps, and Full-Stack Development**. I enjoy building applications and learning how modern software systems are developed, containerized, deployed, and scaled.
-
-☁️ I am currently strengthening my skills in **Docker, Kubernetes, cloud technologies, Linux, networking, and CI/CD**, while continuing to improve my software engineering and problem-solving skills.
-
-🎯 My goal is to build scalable and reliable systems and grow into a **Software Engineer, Cloud Engineer, or DevOps Engineer**.
+<p align="center">
+  <a href="https://linkedin.com/in/yadeshharihar-s"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" /></a>
+  <a href="mailto:yadeshharihar02@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8" /></a>
+  <a href="REPLACE_ME_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-0f172a?style=for-the-badge&logo=readthedocs&logoColor=38bdf8" /></a>
+</p>
 
 ---
 
-## 🔧 Technologies & Tools
+## 👋 About Me
 
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🌐 Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### ☁️ Cloud & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 📱 Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+- 🎓 **MS in Information Technology** @ Arizona State University (expected May 2027)
+- 🎓 **BE in Computer Science & Engineering** @ R.M.K. Engineering College (2024)
+- ☁️ I build apps and take them to production: **code → container → CI/CD → cloud → Kubernetes**
+- 🔭 Currently focused on cloud infrastructure, CI/CD pipelines, networking, and system design
+- 📌 **Open to 2027 new-grad Software / Cloud / DevOps roles and internships**
 
 ---
 
-## 🚀 Currently Learning
+## 🚀 Featured Projects
 
-- ☁️ Cloud Computing & Infrastructure
-- 🐳 Docker & Containerization
-- ☸️ Kubernetes
-- ⚙️ CI/CD & DevOps
-- 🌐 Computer Networking
-- 🐧 Linux
-- 💻 Full-Stack Development
-- 🧩 Data Structures & Algorithms
-- 🏗️ System Design
+<p align="center">
+  <a href="https://github.com/yadeshS/REPLACE_ME_REPO1">
+    <img src="https://REPLACE_ME_DEPLOY.vercel.app/api/pin/?username=yadeshS&repo=REPLACE_ME_REPO1&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8" />
+  </a>
+  <a href="https://github.com/yadeshS/REPLACE_ME_REPO2">
+    <img src="https://REPLACE_ME_DEPLOY.vercel.app/api/pin/?username=yadeshS&repo=REPLACE_ME_REPO2&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8" />
+  </a>
+</p>
 
----
-
-## 🛠️ What I'm Working On
-
-I'm currently building hands-on projects that combine **software development with cloud and DevOps technologies**.
-
-My focus is on understanding the complete application lifecycle:
-
-**Code → Container → CI/CD → Cloud → Kubernetes → Production**
-
-My GitHub documents this journey through projects as I continue developing my engineering skills.
+| Project | What it does | Stack |
+|---|---|---|
+| [REPLACE_ME_REPO1](https://github.com/yadeshS/REPLACE_ME_REPO1) | One-line description + a result or metric | React · Node.js · Docker · GitHub Actions |
+| [REPLACE_ME_REPO2](https://github.com/yadeshS/REPLACE_ME_REPO2) | One-line description | Python · Kubernetes · Cloud |
 
 ---
 
-## 🎯 2026–2027 Goals
+## 🔧 Tech Stack
 
-- 🚀 Build production-style software projects
-- ☁️ Gain hands-on experience with cloud platforms
-- 🐳 Become proficient with Docker and Kubernetes
-- ⚙️ Build CI/CD pipelines
-- 🧠 Improve Data Structures & Algorithms
-- 🏗️ Learn scalable system design
-- 💼 Prepare for Software Engineering, Cloud Engineering, and DevOps opportunities
-- 🎓 Graduate from Arizona State University in May 2027
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,dart,html,css,react&perline=7" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,flutter,docker,kubernetes,linux,git,github&perline=7" />
+</p>
 
 ---
+
+## 🎯 Goals (2026–2027)
+
+- ☁️ Earn a cloud certification (e.g. AWS Solutions Architect Associate)
+- ☸️ Earn the CKA (Certified Kubernetes Administrator)
+- ⚙️ Ship an end-to-end project with automated CI/CD deployed to Kubernetes
+- 🧠 Keep sharpening DSA and system design
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yadeshS&show_icons=true&theme=radical&hide_border=true" alt="Yadesh's GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://REPLACE_ME_DEPLOY.vercel.app/api?username=yadeshS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8" />
+    <img height="170" src="https://REPLACE_ME_DEPLOY.vercel.app/api?username=yadeshS&show_icons=true&theme=default&hide_border=true&title_color=0369a1&icon_color=0369a1" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://REPLACE_ME_DEPLOY.vercel.app/api/top-langs/?username=yadeshS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8" />
+    <img height="170" src="https://REPLACE_ME_DEPLOY.vercel.app/api/top-langs/?username=yadeshS&layout=compact&theme=default&hide_border=true&title_color=0369a1" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadeshS&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=yadeshS&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
+    <img height="170" src="https://streak-stats.demolab.com?user=yadeshS&theme=default&hide_border=true&ring=0369a1&fire=0369a1&currStreakLabel=0369a1" />
+  </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yadeshS&layout=compact&theme=radical" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yadeshharihar-s)
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadeshharihar02@gmail.com)
-
----
+<!-- ===================== FOOTER ===================== -->
+<p align="center"><i>Building. Learning. Improving. 🚀</i></p>
 
 <p align="center">
-  <i>Building. Learning. Improving. 🚀</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=110&section=footer" width="100%" />
 </p>
